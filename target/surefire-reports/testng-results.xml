@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[User is able to Navigate to Google Search Page.]]>
+    </line>
+    <line>
+      <![CDATA[User is able to enter amazon in search bar]]>
+    </line>
+    <line>
+      <![CDATA[User will print all the serach result url as follows with total count: 36]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/events/greatindianfestival]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/amazonprime]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQrAN6BAgJEAE]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://aws.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/interviewing-at-amazon]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/en/job_categories/design]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.primevideo.com/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GiIIpQEaHQoTc3RvcnlfbGFiZWxfcGFydGlhbBIGQW1hem9uMi8KJcPhhJz744CRa_uE7dfzlJ-cYb3o1fX5-Z3ctwHf-Yap9tvF0j4QpdHRvwkYBVgB&fcs=AOyiXZL5kB3OrhFzDsvLkckMGSXjWS9Sdw&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPxAD]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.hindustantimes.com/technology/amazon-great-indian-festival-sale-2023-get-up-to-89-on-best-smartwatches-101698318914948.html]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.gadgets360.com/internet/features/5-air-purifiers-under-rs-10000-during-amazon-great-indian-festival-extra-happiness-days-sale-2023-4515569]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.livemint.com/technology/gadgets/amazon-sale-2023-upgrading-your-smartphone-get-up-to-51-off-on-flagship-phone-11698323326891.html]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GhkSF0FtYXpvbiBlYXJuaW5ncyBwcmV2aWV3MjAKJqaumuno96DzNZuEmfWdi--mkQGx58KD7snitugB5LDk9tm1-ItAEMiBn8YJGAVYAQ&fcs=AOyiXZK29zgaTRBW4v7D5zyZ8CzEeelX0A&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPBAD]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.google.com/search?q=NASDAQ:AMZN&sca_esv=577069831&source=hp&ei=DUo7ZbSFD5f7seMPzv-ruA0&iflsig=AO6bgOgAAAAAZTtYHWqY3N48O_dZ3iRzGGqJfCuqPKfG&uact=5&oq=amazon&gs_lp=Egdnd3Mtd2l6IgZhbWF6b25I4AFQAFgQcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAQ&sclient=gws-wiz&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQkq0KKAB6BAg8EAY]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.bloomberg.com/news/articles/2023-10-26/amazon-reports-revenue-that-tops-estimates-on-strong-web-sales]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.moneycontrol.com/news/world/amazons-cloud-stabilizing-shoppers-cautious-heading-into-holiday-season-11607801.html]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.bloomberg.com/news/articles/2023-10-27/microsoft-s-cloud-recovery-is-outshining-rivals-amazon-google]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.google.com/search?sca_esv=577069831&q=amazon&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQt8YBKAF6BAg-EAY]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.aboutamazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://en.wikipedia.org/wiki/Amazon_(company)]]>
+    </line>
+    <line>
+      <![CDATA[User is able to navigate to amazon.in website]]>
+    </line>
+    <line>
+      <![CDATA[User is able to navigate ELectronics WebPage]]>
+    </line>
+    <line>
+      <![CDATA[User is able to serach for: dell computers]]>
+    </line>
+    <line>
+      <![CDATA[User is able enter filter Min value as: 30000]]>
+    </line>
+    <line>
+      <![CDATA[User is able enter filter Max value as: 50000]]>
+    </line>
+    <line>
+      <![CDATA[User is able apply 4 star filter]]>
+    </line>
+    <line>
+      <![CDATA[User is able to get the all product name with total count as: 22]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Carbon Black/1.63kg]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell All in One Inspiron 5410, Intel Core i3-1215U/8GB/256GB/23.8"/Windows 11 Home FHD AG Pro Wireless Keyboard + Mouse/3 Years Onsite Hardware Service/White/5.39Kgs]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Inspiron 3891 Compact Desktop Computer Tower - Intel Core i3-10105, 8GB DDR4 RAM, 256GB SSD, Intel UHD Graphics 630 with Shared Graphics Memory, Windows 10 Home - Black (Latest Model)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Vostro 3525 Laptop, AMD Ryzen 5-5500U Processor/ 8GB/ 512GB SSD/ 15.6" (39.62cm) FHD AG 120Hz 250 nits Narrow Border Display/ Win11 + MSO'21/15 Month McAfee/Black/ 1.83kg]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Inspiron 3525 Laptop, AMD Ryzen R3-5425U/8GB/512GB/15.6" (39.62cm) FHD, 3 Sided Narrow Border Design with 120Hz FHD Display/Windows 11 + MSO'21/McAfee 15 Months/Carbon Black/1.68kg]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Vostro 3420 Laptop,12th Gen Intel Core i3-1215U, 8GB & 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, Carbon Black (D552325WIN9BE, 1.48 KGs)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell (Renewed) Latitude E6440-i5-16 GB-500 GB 14-inch Laptop (4th Gen Core i5/16GB/500GB/Windows 10/Integrated Graphics), Silver]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 15.6" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/1Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK00VTIN]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Inspiron 14 5402, 14 inch FHD Non-Touch Laptop - 11th Generation Intel Core i5-1135G7, 8GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 10 Home - Platinum Silver]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Vostro 3400 Laptop - Intel i5-1135G7, 8GB, 512GB, Windows 11+MSO'21, 14.0"/35.56Cms FHD WVA AG (D552260WIN9B, 1.59Kgs)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 5490 Intel Core i5 7th Gen -Processor , 16 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Platinum Silver/1.63kg]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell 14 (2021) Intel i3-1125G4 2 in 1 Touch Screen Laptop, 8GB RAM, 256Gb SSD, 14 inches FHD Display, Windows 10 + MSO, Backlit KB + FPR, Silver Color (Inspiron 5410, D560563WIN9S), 1.5kg]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Inspiron 3530 13th Gen Laptop, Intel Core i3-1305U/8GB/512GB SSD/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Narrow Border/Windows 11+MSO'21/McAfee 15 Month/Platinum Silver/1.62kg]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Latitude 7400 Laptop - 14.0" FHD AG W/ IR Cam - 1.9 GHz Intel Core i7-8665U Quad-Core - 512GB SSD - 16GB - Windows 10 pro]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- ASUS Vivo AiO V241,2 core Intel Core i3-1115G4, 23.8"(60.45cm), All-in-One Desktop (8GB/256GB SSD/Win11/Office 21/1Year McAfee Security/Wireless Keyboard & Mouse Included/White/4.8 kg),V241EAK-WA018WS]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Lenovo IdeaCentre 3 Desktop (12th Gen Intel Core i3/8GB/512GB SSD/DOS/Integrated Intel UHD Graphics 730/WiFi 6/Bluetooth 5.1/Cloud Grey), 90SM00AMIN]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Lenovo ThinkPad E14 AMD Ryzen 5 5625U 14" (35.56 cm) FHD Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/AMD Radeon Graphics/Backlit Keyboard/FPR/Black/1.59 kg), 21EBS02M00]]>
+    </line>
+    <line>
+      <![CDATA[User is able to close the browser]]>
+    </line>
+    <line>
+      <![CDATA[User is able to Navigate to Google Search Page.]]>
+    </line>
+    <line>
+      <![CDATA[User is able to enter amazon in search bar]]>
+    </line>
+    <line>
+      <![CDATA[User will print all the serach result url as follows with total count: 26]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/events/greatindianfestival]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/Home-Kitchen/b?ie=UTF8&node=976442031]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwj46p6fv5WCAxX8yDgGHWi8ACcQrAN6BAgHEAE]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/interviewing-at-amazon]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.amazon.jobs/en/job_categories/design]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://aws.amazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.primevideo.com/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://www.aboutamazon.com/]]>
+    </line>
+    <line>
+      <![CDATA[Url:- https://en.wikipedia.org/wiki/Amazon_(company)]]>
+    </line>
+    <line>
+      <![CDATA[User is able to navigate to amazon.in website]]>
+    </line>
+    <line>
+      <![CDATA[User is able to navigate ELectronics WebPage]]>
+    </line>
+    <line>
+      <![CDATA[User is able to serach for: Dell Computer]]>
+    </line>
+    <line>
+      <![CDATA[User is able enter filter Min value as: 10000]]>
+    </line>
+    <line>
+      <![CDATA[User is able enter filter Max value as: 30000]]>
+    </line>
+    <line>
+      <![CDATA[User is able apply 4 star filter]]>
+    </line>
+    <line>
+      <![CDATA[User is able to get the all product name with total count as: 22]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- BenQ MOBIUZ EX2710S 27"(68cm) IPS Bezel-Less HDR Gaming Monitor with Height Adjust-Full HD,99% sRGB,165Hz,1ms MPRT, AMD FreeSync Premium,Black Equalizer,treVolo Speakers,HDMI,DP(Dark Grey)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Lenovo Thinkcentre Desktop Mini Pc (Intel Core I5 8Th Gen | 16 Gb Ddr4 Ram| 512 Gb Ssd|Wifi|Windows 11|Ms Office) Black]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 16 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 8 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell S2421HNM (60.4 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 250 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell S2721HNM (69 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 300 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free, 5 Yr Warranty]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core i3 9th gen 3.1ghz, 8 GB RAM, 240gb SSD, Win 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core I3 9th gen 3.1ghz, 16 GB RAM, 480gb SSD, Windows 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Optiplex 9020 Usff (Core I5 4Th Gen/ 8 Gb Ram/ 256 Gb Ssd/ Win 10 Pro),Intel,Black]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 5050 SFF (Core i5 6th Gen/ 8GB Ram/ 256GB SSD/ Win-10 Pro)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- ROCCAT Sense AIMO XXL Ultra-Wide PC Gaming Mousepad, RGB Illumination, High Precision, Non Slip Back, Extended Keyboard Desktop Mouse Pad with Stitched Edges, Smooth, Black]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- PreSonus Eris E3.5-3.5" Near Field 25 Watts RCA Auxiliary Studio Monitor Speaker (Pair) - Black]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Optiplex Desktop Computer PC (Intel Core i5 4th Gen, 8 GB RAM, 1 TB HDD, Windows 10 Pro, MS Office, Intel HD Graphics, USB, Ethernet, VGA), Black]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell Professional 24 inches, 1920 x 1080 Pixels Full HD Monitor - Wall Mountable & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- USB C Docking Station Dual Monitor for HP Dell Lenovo Thinkpad Surface, 8 in 1 Computer Multiple Monitor Hub Adapter to Dual 4K HDMI, DisplayPort, VGA, 100W PD, 3 USB 2.0 for Windows Laptops]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 3060 Tiny Desktop (Core I3 8th gen 2.5ghz, 8 GB RAM, 1 TB HDD, Win 11 (Upgraded), MS Office/ Intel HD Graphics/, USB 3.0, Ethernet,VGA), Black Windows]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Latitude E7450 5th Gen Intel Core i5 Thin & Light FHD Laptop (16 GB RAM/256 GB SSD/14" (35.6 cm) FHD/Windows 10 Pro/MS Office/WiFi/Bluetooth/Webcam/Intel Graphics)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell 27" (68.96 cm) FHD Monitor 5 Yrs Warranty & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Dell 17 inch/43.2 cm, 1280 x 1024 Pixels LED Backlit Computer Monitor - HD, TN Panel with VGA, Display Ports - E1715S (Black)]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- ASUS Vivo AiO V222, 4 core Intel Pentium Silver J5040, 21.5" (54.61cm), All-in-One Desktop (8GB/256GB SSD/Win11/1Year McAfee Security/Wired Keyboard & Mouse Included/Black/4.8 kg), V222GAK-BA034W]]>
+    </line>
+    <line>
+      <![CDATA[Product Name:- Samsung Galaxy Tab A 10.1 Wi-Fi+4G Tablet 25.65 cm (10.1 inch), RAM 2 GB, ROM 32GB, Black]]>
+    </line>
+    <line>
+      <![CDATA[User is able to close the browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-27T10:56:07 IST" name="Surefire suite" finished-at="2023-10-27T10:58:45 IST" duration-ms="157380">
+    <groups>
+    </groups>
+    <test started-at="2023-10-27T10:56:07 IST" name="Surefire test" finished-at="2023-10-27T10:58:45 IST" duration-ms="157380">
+      <class name="Assignment.UIDataDriven.AmazonSearch">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Assignment.UIDataDriven.AmazonSearch@1a84f40f]" started-at="2023-10-27T10:56:08 IST" name="beforeMethod" finished-at="2023-10-27T10:56:41 IST" duration-ms="32280" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User is able to Navigate to Google Search Page.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TestAmazonSearch(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Assignment.UIDataDriven.AmazonSearch@1a84f40f]" started-at="2023-10-27T10:56:41 IST" name="TestAmazonSearch" data-provider="ExternalData" finished-at="2023-10-27T10:57:40 IST" duration-ms="59018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dell computers]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User is able to enter amazon in search bar]]>
+            </line>
+            <line>
+              <![CDATA[User will print all the serach result url as follows with total count: 36]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/events/greatindianfestival]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/amazonprime]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQrAN6BAgJEAE]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://aws.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/interviewing-at-amazon]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/en/job_categories/design]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.primevideo.com/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GiIIpQEaHQoTc3RvcnlfbGFiZWxfcGFydGlhbBIGQW1hem9uMi8KJcPhhJz744CRa_uE7dfzlJ-cYb3o1fX5-Z3ctwHf-Yap9tvF0j4QpdHRvwkYBVgB&fcs=AOyiXZL5kB3OrhFzDsvLkckMGSXjWS9Sdw&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPxAD]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.hindustantimes.com/technology/amazon-great-indian-festival-sale-2023-get-up-to-89-on-best-smartwatches-101698318914948.html]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.gadgets360.com/internet/features/5-air-purifiers-under-rs-10000-during-amazon-great-indian-festival-extra-happiness-days-sale-2023-4515569]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.livemint.com/technology/gadgets/amazon-sale-2023-upgrading-your-smartphone-get-up-to-51-off-on-flagship-phone-11698323326891.html]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GhkSF0FtYXpvbiBlYXJuaW5ncyBwcmV2aWV3MjAKJqaumuno96DzNZuEmfWdi--mkQGx58KD7snitugB5LDk9tm1-ItAEMiBn8YJGAVYAQ&fcs=AOyiXZK29zgaTRBW4v7D5zyZ8CzEeelX0A&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPBAD]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.google.com/search?q=NASDAQ:AMZN&sca_esv=577069831&source=hp&ei=DUo7ZbSFD5f7seMPzv-ruA0&iflsig=AO6bgOgAAAAAZTtYHWqY3N48O_dZ3iRzGGqJfCuqPKfG&uact=5&oq=amazon&gs_lp=Egdnd3Mtd2l6IgZhbWF6b25I4AFQAFgQcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAQ&sclient=gws-wiz&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQkq0KKAB6BAg8EAY]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.bloomberg.com/news/articles/2023-10-26/amazon-reports-revenue-that-tops-estimates-on-strong-web-sales]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.moneycontrol.com/news/world/amazons-cloud-stabilizing-shoppers-cautious-heading-into-holiday-season-11607801.html]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.bloomberg.com/news/articles/2023-10-27/microsoft-s-cloud-recovery-is-outshining-rivals-amazon-google]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.google.com/search?sca_esv=577069831&q=amazon&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQt8YBKAF6BAg-EAY]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.aboutamazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://en.wikipedia.org/wiki/Amazon_(company)]]>
+            </line>
+            <line>
+              <![CDATA[User is able to navigate to amazon.in website]]>
+            </line>
+            <line>
+              <![CDATA[User is able to navigate ELectronics WebPage]]>
+            </line>
+            <line>
+              <![CDATA[User is able to serach for: dell computers]]>
+            </line>
+            <line>
+              <![CDATA[User is able enter filter Min value as: 30000]]>
+            </line>
+            <line>
+              <![CDATA[User is able enter filter Max value as: 50000]]>
+            </line>
+            <line>
+              <![CDATA[User is able apply 4 star filter]]>
+            </line>
+            <line>
+              <![CDATA[User is able to get the all product name with total count as: 22]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Carbon Black/1.63kg]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell All in One Inspiron 5410, Intel Core i3-1215U/8GB/256GB/23.8"/Windows 11 Home FHD AG Pro Wireless Keyboard + Mouse/3 Years Onsite Hardware Service/White/5.39Kgs]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Inspiron 3891 Compact Desktop Computer Tower - Intel Core i3-10105, 8GB DDR4 RAM, 256GB SSD, Intel UHD Graphics 630 with Shared Graphics Memory, Windows 10 Home - Black (Latest Model)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Vostro 3525 Laptop, AMD Ryzen 5-5500U Processor/ 8GB/ 512GB SSD/ 15.6" (39.62cm) FHD AG 120Hz 250 nits Narrow Border Display/ Win11 + MSO'21/15 Month McAfee/Black/ 1.83kg]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Inspiron 3525 Laptop, AMD Ryzen R3-5425U/8GB/512GB/15.6" (39.62cm) FHD, 3 Sided Narrow Border Design with 120Hz FHD Display/Windows 11 + MSO'21/McAfee 15 Months/Carbon Black/1.68kg]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Vostro 3420 Laptop,12th Gen Intel Core i3-1215U, 8GB & 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, Carbon Black (D552325WIN9BE, 1.48 KGs)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell (Renewed) Latitude E6440-i5-16 GB-500 GB 14-inch Laptop (4th Gen Core i5/16GB/500GB/Windows 10/Integrated Graphics), Silver]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 15.6" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/1Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK00VTIN]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Inspiron 14 5402, 14 inch FHD Non-Touch Laptop - 11th Generation Intel Core i5-1135G7, 8GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 10 Home - Platinum Silver]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Vostro 3400 Laptop - Intel i5-1135G7, 8GB, 512GB, Windows 11+MSO'21, 14.0"/35.56Cms FHD WVA AG (D552260WIN9B, 1.59Kgs)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 5490 Intel Core i5 7th Gen -Processor , 16 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Platinum Silver/1.63kg]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell 14 (2021) Intel i3-1125G4 2 in 1 Touch Screen Laptop, 8GB RAM, 256Gb SSD, 14 inches FHD Display, Windows 10 + MSO, Backlit KB + FPR, Silver Color (Inspiron 5410, D560563WIN9S), 1.5kg]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Inspiron 3530 13th Gen Laptop, Intel Core i3-1305U/8GB/512GB SSD/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Narrow Border/Windows 11+MSO'21/McAfee 15 Month/Platinum Silver/1.62kg]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Latitude 7400 Laptop - 14.0" FHD AG W/ IR Cam - 1.9 GHz Intel Core i7-8665U Quad-Core - 512GB SSD - 16GB - Windows 10 pro]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- ASUS Vivo AiO V241,2 core Intel Core i3-1115G4, 23.8"(60.45cm), All-in-One Desktop (8GB/256GB SSD/Win11/Office 21/1Year McAfee Security/Wireless Keyboard & Mouse Included/White/4.8 kg),V241EAK-WA018WS]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Lenovo IdeaCentre 3 Desktop (12th Gen Intel Core i3/8GB/512GB SSD/DOS/Integrated Intel UHD Graphics 730/WiFi 6/Bluetooth 5.1/Cloud Grey), 90SM00AMIN]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Lenovo ThinkPad E14 AMD Ryzen 5 5625U 14" (35.56 cm) FHD Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/AMD Radeon Graphics/Backlit Keyboard/FPR/Black/1.59 kg), 21EBS02M00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestAmazonSearch -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Assignment.UIDataDriven.AmazonSearch@1a84f40f]" started-at="2023-10-27T10:57:40 IST" name="afterMethod" finished-at="2023-10-27T10:57:54 IST" duration-ms="14635" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User is able to close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Assignment.UIDataDriven.AmazonSearch@1a84f40f]" started-at="2023-10-27T10:57:54 IST" name="beforeMethod" finished-at="2023-10-27T10:58:04 IST" duration-ms="9780" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User is able to Navigate to Google Search Page.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TestAmazonSearch(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Assignment.UIDataDriven.AmazonSearch@1a84f40f]" started-at="2023-10-27T10:58:04 IST" name="TestAmazonSearch" data-provider="ExternalData" finished-at="2023-10-27T10:58:45 IST" duration-ms="40340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dell Computer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User is able to enter amazon in search bar]]>
+            </line>
+            <line>
+              <![CDATA[User will print all the serach result url as follows with total count: 26]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/events/greatindianfestival]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/Home-Kitchen/b?ie=UTF8&node=976442031]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwj46p6fv5WCAxX8yDgGHWi8ACcQrAN6BAgHEAE]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/interviewing-at-amazon]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.amazon.jobs/en/job_categories/design]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://aws.amazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.primevideo.com/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://www.aboutamazon.com/]]>
+            </line>
+            <line>
+              <![CDATA[Url:- https://en.wikipedia.org/wiki/Amazon_(company)]]>
+            </line>
+            <line>
+              <![CDATA[User is able to navigate to amazon.in website]]>
+            </line>
+            <line>
+              <![CDATA[User is able to navigate ELectronics WebPage]]>
+            </line>
+            <line>
+              <![CDATA[User is able to serach for: Dell Computer]]>
+            </line>
+            <line>
+              <![CDATA[User is able enter filter Min value as: 10000]]>
+            </line>
+            <line>
+              <![CDATA[User is able enter filter Max value as: 30000]]>
+            </line>
+            <line>
+              <![CDATA[User is able apply 4 star filter]]>
+            </line>
+            <line>
+              <![CDATA[User is able to get the all product name with total count as: 22]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- BenQ MOBIUZ EX2710S 27"(68cm) IPS Bezel-Less HDR Gaming Monitor with Height Adjust-Full HD,99% sRGB,165Hz,1ms MPRT, AMD FreeSync Premium,Black Equalizer,treVolo Speakers,HDMI,DP(Dark Grey)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Lenovo Thinkcentre Desktop Mini Pc (Intel Core I5 8Th Gen | 16 Gb Ddr4 Ram| 512 Gb Ssd|Wifi|Windows 11|Ms Office) Black]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 16 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 8 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell S2421HNM (60.4 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 250 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell S2721HNM (69 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 300 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free, 5 Yr Warranty]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core i3 9th gen 3.1ghz, 8 GB RAM, 240gb SSD, Win 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core I3 9th gen 3.1ghz, 16 GB RAM, 480gb SSD, Windows 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Optiplex 9020 Usff (Core I5 4Th Gen/ 8 Gb Ram/ 256 Gb Ssd/ Win 10 Pro),Intel,Black]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 5050 SFF (Core i5 6th Gen/ 8GB Ram/ 256GB SSD/ Win-10 Pro)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- ROCCAT Sense AIMO XXL Ultra-Wide PC Gaming Mousepad, RGB Illumination, High Precision, Non Slip Back, Extended Keyboard Desktop Mouse Pad with Stitched Edges, Smooth, Black]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- PreSonus Eris E3.5-3.5" Near Field 25 Watts RCA Auxiliary Studio Monitor Speaker (Pair) - Black]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Optiplex Desktop Computer PC (Intel Core i5 4th Gen, 8 GB RAM, 1 TB HDD, Windows 10 Pro, MS Office, Intel HD Graphics, USB, Ethernet, VGA), Black]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell Professional 24 inches, 1920 x 1080 Pixels Full HD Monitor - Wall Mountable & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- USB C Docking Station Dual Monitor for HP Dell Lenovo Thinkpad Surface, 8 in 1 Computer Multiple Monitor Hub Adapter to Dual 4K HDMI, DisplayPort, VGA, 100W PD, 3 USB 2.0 for Windows Laptops]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) DELL OPTIPLEX 3060 Tiny Desktop (Core I3 8th gen 2.5ghz, 8 GB RAM, 1 TB HDD, Win 11 (Upgraded), MS Office/ Intel HD Graphics/, USB 3.0, Ethernet,VGA), Black Windows]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Latitude E7450 5th Gen Intel Core i5 Thin & Light FHD Laptop (16 GB RAM/256 GB SSD/14" (35.6 cm) FHD/Windows 10 Pro/MS Office/WiFi/Bluetooth/Webcam/Intel Graphics)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell 27" (68.96 cm) FHD Monitor 5 Yrs Warranty & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Dell 17 inch/43.2 cm, 1280 x 1024 Pixels LED Backlit Computer Monitor - HD, TN Panel with VGA, Display Ports - E1715S (Black)]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- (Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- ASUS Vivo AiO V222, 4 core Intel Pentium Silver J5040, 21.5" (54.61cm), All-in-One Desktop (8GB/256GB SSD/Win11/1Year McAfee Security/Wired Keyboard & Mouse Included/Black/4.8 kg), V222GAK-BA034W]]>
+            </line>
+            <line>
+              <![CDATA[Product Name:- Samsung Galaxy Tab A 10.1 Wi-Fi+4G Tablet 25.65 cm (10.1 inch), RAM 2 GB, ROM 32GB, Black]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestAmazonSearch -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Assignment.UIDataDriven.AmazonSearch@1a84f40f]" started-at="2023-10-27T10:58:45 IST" name="afterMethod" finished-at="2023-10-27T10:58:45 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User is able to close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Assignment.UIDataDriven.AmazonSearch -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

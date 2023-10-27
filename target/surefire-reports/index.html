@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Surefire_suite" class="navigator-link">
+              <span class="suite-name border-passed">Surefire suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Surefire_suite" class="navigator-link ">
+                    <span>[unset file name]</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Surefire_suite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Surefire_suite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Surefire_suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Surefire_suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Surefire_suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Surefire_suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">2 methods,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Surefire_suite" class="hide-methods passed suite-Surefire_suite"> (hide)</a> <!-- hide-methods passed suite-Surefire_suite -->
+                      <a href="#" panel-name="suite-Surefire_suite" class="show-methods passed suite-Surefire_suite"> (show)</a> <!-- show-methods passed suite-Surefire_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Surefire_suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="Assignment.UIDataDriven.AmazonSearch" class="method navigator-link" hash-for-method="TestAmazonSearch(Dell Computer, 10000, 30000)">TestAmazonSearch(Dell Computer, 10000, 30000)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="Assignment.UIDataDriven.AmazonSearch" class="method navigator-link" hash-for-method="TestAmazonSearch(dell computers, 30000, 50000)">TestAmazonSearch(dell computers, 30000, 50000)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Surefire_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Surefire_suite" class="panel Surefire_suite">
+          <div class="suite-Surefire_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">Assignment.UIDataDriven.AmazonSearch</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestAmazonSearch(Dell Computer, 10000, 30000)">
+                  </a> <!-- TestAmazonSearch(Dell Computer, 10000, 30000) -->
+                  <span class="method-name">TestAmazonSearch</span>
+                  <span class="parameters">(Dell Computer,10000,30000)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TestAmazonSearch(dell computers, 30000, 50000)">
+                  </a> <!-- TestAmazonSearch(dell computers, 30000, 50000) -->
+                  <span class="method-name">TestAmazonSearch</span>
+                  <span class="parameters">(dell computers,30000,50000)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Surefire_suite-class-passed -->
+        </div> <!-- panel Surefire_suite -->
+        <div panel-name="test-xml-Surefire_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; name=&quot;Surefire suite&quot; verbose=&quot;0&quot;&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;Surefire test&quot; verbose=&quot;0&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Assignment.UIDataDriven.AmazonSearch&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Surefire test --&gt;
+&lt;/suite&gt; &lt;!-- Surefire suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Surefire_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Surefire suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Surefire test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Surefire_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Surefire suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Surefire_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Surefire suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Surefire_suite');
+function tableData_Surefire_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(2);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'TestAmazonSearch')
+data.setCell(0, 2, 'Assignment.UIDataDriven.AmazonSearch')
+data.setCell(0, 3, 59018);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'TestAmazonSearch')
+data.setCell(1, 2, 'Assignment.UIDataDriven.AmazonSearch')
+data.setCell(1, 3, 40340);
+window.suiteTableData['Surefire_suite']= { tableData: data, tableDiv: 'times-div-Surefire_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Surefire_suite">
+              </div> <!-- times-div-Surefire_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Surefire_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Surefire suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">TestAmazonSearch(Dell Computer, 10000, 30000)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">User is able to enter amazon in search bar</span>
+                <span class="reporter-method-output">User will print all the serach result url as follows with total count: 26</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/events/greatindianfestival</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/Home-Kitchen/b?ie=UTF8&node=976442031</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031</span>
+                <span class="reporter-method-output">Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwj46p6fv5WCAxX8yDgGHWi8ACcQrAN6BAgHEAE</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.com/</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/interviewing-at-amazon</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/en/job_categories/design</span>
+                <span class="reporter-method-output">Url:- https://aws.amazon.com/</span>
+                <span class="reporter-method-output">Url:- https://www.primevideo.com/</span>
+                <span class="reporter-method-output">Url:- https://www.aboutamazon.com/</span>
+                <span class="reporter-method-output">Url:- https://en.wikipedia.org/wiki/Amazon_(company)</span>
+                <span class="reporter-method-output">User is able to navigate to amazon.in website</span>
+                <span class="reporter-method-output">User is able to navigate ELectronics WebPage</span>
+                <span class="reporter-method-output">User is able to serach for: Dell Computer</span>
+                <span class="reporter-method-output">User is able enter filter Min value as: 10000</span>
+                <span class="reporter-method-output">User is able enter filter Max value as: 30000</span>
+                <span class="reporter-method-output">User is able apply 4 star filter</span>
+                <span class="reporter-method-output">User is able to get the all product name with total count as: 22</span>
+                <span class="reporter-method-output">Product Name:- BenQ MOBIUZ EX2710S 27"(68cm) IPS Bezel-Less HDR Gaming Monitor with Height Adjust-Full HD,99% sRGB,165Hz,1ms MPRT, AMD FreeSync Premium,Black Equalizer,treVolo Speakers,HDMI,DP(Dark Grey)</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Lenovo Thinkcentre Desktop Mini Pc (Intel Core I5 8Th Gen | 16 Gb Ddr4 Ram| 512 Gb Ssd|Wifi|Windows 11|Ms Office) Black</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 16 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 8 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)</span>
+                <span class="reporter-method-output">Product Name:- Dell S2421HNM (60.4 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 250 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free</span>
+                <span class="reporter-method-output">Product Name:- Dell S2721HNM (69 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 300 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free, 5 Yr Warranty</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core i3 9th gen 3.1ghz, 8 GB RAM, 240gb SSD, Win 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core I3 9th gen 3.1ghz, 16 GB RAM, 480gb SSD, Windows 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Optiplex 9020 Usff (Core I5 4Th Gen/ 8 Gb Ram/ 256 Gb Ssd/ Win 10 Pro),Intel,Black</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) DELL OPTIPLEX 5050 SFF (Core i5 6th Gen/ 8GB Ram/ 256GB SSD/ Win-10 Pro)</span>
+                <span class="reporter-method-output">Product Name:- ROCCAT Sense AIMO XXL Ultra-Wide PC Gaming Mousepad, RGB Illumination, High Precision, Non Slip Back, Extended Keyboard Desktop Mouse Pad with Stitched Edges, Smooth, Black</span>
+                <span class="reporter-method-output">Product Name:- PreSonus Eris E3.5-3.5" Near Field 25 Watts RCA Auxiliary Studio Monitor Speaker (Pair) - Black</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Optiplex Desktop Computer PC (Intel Core i5 4th Gen, 8 GB RAM, 1 TB HDD, Windows 10 Pro, MS Office, Intel HD Graphics, USB, Ethernet, VGA), Black</span>
+                <span class="reporter-method-output">Product Name:- Dell Professional 24 inches, 1920 x 1080 Pixels Full HD Monitor - Wall Mountable & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life</span>
+                <span class="reporter-method-output">Product Name:- USB C Docking Station Dual Monitor for HP Dell Lenovo Thinkpad Surface, 8 in 1 Computer Multiple Monitor Hub Adapter to Dual 4K HDMI, DisplayPort, VGA, 100W PD, 3 USB 2.0 for Windows Laptops</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) DELL OPTIPLEX 3060 Tiny Desktop (Core I3 8th gen 2.5ghz, 8 GB RAM, 1 TB HDD, Win 11 (Upgraded), MS Office/ Intel HD Graphics/, USB 3.0, Ethernet,VGA), Black Windows</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Latitude E7450 5th Gen Intel Core i5 Thin & Light FHD Laptop (16 GB RAM/256 GB SSD/14" (35.6 cm) FHD/Windows 10 Pro/MS Office/WiFi/Bluetooth/Webcam/Intel Graphics)</span>
+                <span class="reporter-method-output">Product Name:- Dell 27" (68.96 cm) FHD Monitor 5 Yrs Warranty & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life</span>
+                <span class="reporter-method-output">Product Name:- Dell 17 inch/43.2 cm, 1280 x 1024 Pixels LED Backlit Computer Monitor - HD, TN Panel with VGA, Display Ports - E1715S (Black)</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer</span>
+                <span class="reporter-method-output">Product Name:- ASUS Vivo AiO V222, 4 core Intel Pentium Silver J5040, 21.5" (54.61cm), All-in-One Desktop (8GB/256GB SSD/Win11/1Year McAfee Security/Wired Keyboard & Mouse Included/Black/4.8 kg), V222GAK-BA034W</span>
+                <span class="reporter-method-output">Product Name:- Samsung Galaxy Tab A 10.1 Wi-Fi+4G Tablet 25.65 cm (10.1 inch), RAM 2 GB, ROM 32GB, Black</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">TestAmazonSearch(dell computers, 30000, 50000)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">User is able to enter amazon in search bar</span>
+                <span class="reporter-method-output">User will print all the serach result url as follows with total count: 36</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/events/greatindianfestival</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.in/amazonprime</span>
+                <span class="reporter-method-output">Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQrAN6BAgJEAE</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</span>
+                <span class="reporter-method-output">Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</span>
+                <span class="reporter-method-output">Url:- https://aws.amazon.com/</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/interviewing-at-amazon</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B</span>
+                <span class="reporter-method-output">Url:- https://www.amazon.jobs/en/job_categories/design</span>
+                <span class="reporter-method-output">Url:- https://www.primevideo.com/</span>
+                <span class="reporter-method-output">Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GiIIpQEaHQoTc3RvcnlfbGFiZWxfcGFydGlhbBIGQW1hem9uMi8KJcPhhJz744CRa_uE7dfzlJ-cYb3o1fX5-Z3ctwHf-Yap9tvF0j4QpdHRvwkYBVgB&fcs=AOyiXZL5kB3OrhFzDsvLkckMGSXjWS9Sdw&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPxAD</span>
+                <span class="reporter-method-output">Url:- https://www.hindustantimes.com/technology/amazon-great-indian-festival-sale-2023-get-up-to-89-on-best-smartwatches-101698318914948.html</span>
+                <span class="reporter-method-output">Url:- https://www.gadgets360.com/internet/features/5-air-purifiers-under-rs-10000-during-amazon-great-indian-festival-extra-happiness-days-sale-2023-4515569</span>
+                <span class="reporter-method-output">Url:- https://www.livemint.com/technology/gadgets/amazon-sale-2023-upgrading-your-smartphone-get-up-to-51-off-on-flagship-phone-11698323326891.html</span>
+                <span class="reporter-method-output">Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GhkSF0FtYXpvbiBlYXJuaW5ncyBwcmV2aWV3MjAKJqaumuno96DzNZuEmfWdi--mkQGx58KD7snitugB5LDk9tm1-ItAEMiBn8YJGAVYAQ&fcs=AOyiXZK29zgaTRBW4v7D5zyZ8CzEeelX0A&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPBAD</span>
+                <span class="reporter-method-output">Url:- https://www.google.com/search?q=NASDAQ:AMZN&sca_esv=577069831&source=hp&ei=DUo7ZbSFD5f7seMPzv-ruA0&iflsig=AO6bgOgAAAAAZTtYHWqY3N48O_dZ3iRzGGqJfCuqPKfG&uact=5&oq=amazon&gs_lp=Egdnd3Mtd2l6IgZhbWF6b25I4AFQAFgQcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAQ&sclient=gws-wiz&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQkq0KKAB6BAg8EAY</span>
+                <span class="reporter-method-output">Url:- https://www.bloomberg.com/news/articles/2023-10-26/amazon-reports-revenue-that-tops-estimates-on-strong-web-sales</span>
+                <span class="reporter-method-output">Url:- https://www.moneycontrol.com/news/world/amazons-cloud-stabilizing-shoppers-cautious-heading-into-holiday-season-11607801.html</span>
+                <span class="reporter-method-output">Url:- https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator</span>
+                <span class="reporter-method-output">Url:- https://www.bloomberg.com/news/articles/2023-10-27/microsoft-s-cloud-recovery-is-outshining-rivals-amazon-google</span>
+                <span class="reporter-method-output">Url:- https://www.google.com/search?sca_esv=577069831&q=amazon&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQt8YBKAF6BAg-EAY</span>
+                <span class="reporter-method-output">Url:- https://www.aboutamazon.com/</span>
+                <span class="reporter-method-output">Url:- https://en.wikipedia.org/wiki/Amazon_(company)</span>
+                <span class="reporter-method-output">User is able to navigate to amazon.in website</span>
+                <span class="reporter-method-output">User is able to navigate ELectronics WebPage</span>
+                <span class="reporter-method-output">User is able to serach for: dell computers</span>
+                <span class="reporter-method-output">User is able enter filter Min value as: 30000</span>
+                <span class="reporter-method-output">User is able enter filter Max value as: 50000</span>
+                <span class="reporter-method-output">User is able apply 4 star filter</span>
+                <span class="reporter-method-output">User is able to get the all product name with total count as: 22</span>
+                <span class="reporter-method-output">Product Name:- Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD</span>
+                <span class="reporter-method-output">Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Carbon Black/1.63kg</span>
+                <span class="reporter-method-output">Product Name:- Dell All in One Inspiron 5410, Intel Core i3-1215U/8GB/256GB/23.8"/Windows 11 Home FHD AG Pro Wireless Keyboard + Mouse/3 Years Onsite Hardware Service/White/5.39Kgs</span>
+                <span class="reporter-method-output">Product Name:- Dell Inspiron 3891 Compact Desktop Computer Tower - Intel Core i3-10105, 8GB DDR4 RAM, 256GB SSD, Intel UHD Graphics 630 with Shared Graphics Memory, Windows 10 Home - Black (Latest Model)</span>
+                <span class="reporter-method-output">Product Name:- Dell Vostro 3525 Laptop, AMD Ryzen 5-5500U Processor/ 8GB/ 512GB SSD/ 15.6" (39.62cm) FHD AG 120Hz 250 nits Narrow Border Display/ Win11 + MSO'21/15 Month McAfee/Black/ 1.83kg</span>
+                <span class="reporter-method-output">Product Name:- Dell Inspiron 3525 Laptop, AMD Ryzen R3-5425U/8GB/512GB/15.6" (39.62cm) FHD, 3 Sided Narrow Border Design with 120Hz FHD Display/Windows 11 + MSO'21/McAfee 15 Months/Carbon Black/1.68kg</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Vostro 3420 Laptop,12th Gen Intel Core i3-1215U, 8GB & 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, Carbon Black (D552325WIN9BE, 1.48 KGs)</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer</span>
+                <span class="reporter-method-output">Product Name:- Dell (Renewed) Latitude E6440-i5-16 GB-500 GB 14-inch Laptop (4th Gen Core i5/16GB/500GB/Windows 10/Integrated Graphics), Silver</span>
+                <span class="reporter-method-output">Product Name:- Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN</span>
+                <span class="reporter-method-output">Product Name:- Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 15.6" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/1Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK00VTIN</span>
+                <span class="reporter-method-output">Product Name:- Dell Inspiron 14 5402, 14 inch FHD Non-Touch Laptop - 11th Generation Intel Core i5-1135G7, 8GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 10 Home - Platinum Silver</span>
+                <span class="reporter-method-output">Product Name:- Dell Vostro 3400 Laptop - Intel i5-1135G7, 8GB, 512GB, Windows 11+MSO'21, 14.0"/35.56Cms FHD WVA AG (D552260WIN9B, 1.59Kgs)</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Latitude Laptop 5490 Intel Core i5 7th Gen -Processor , 16 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer</span>
+                <span class="reporter-method-output">Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Platinum Silver/1.63kg</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell 14 (2021) Intel i3-1125G4 2 in 1 Touch Screen Laptop, 8GB RAM, 256Gb SSD, 14 inches FHD Display, Windows 10 + MSO, Backlit KB + FPR, Silver Color (Inspiron 5410, D560563WIN9S), 1.5kg</span>
+                <span class="reporter-method-output">Product Name:- Dell Inspiron 3530 13th Gen Laptop, Intel Core i3-1305U/8GB/512GB SSD/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Narrow Border/Windows 11+MSO'21/McAfee 15 Month/Platinum Silver/1.62kg</span>
+                <span class="reporter-method-output">Product Name:- (Refurbished) Dell Latitude 7400 Laptop - 14.0" FHD AG W/ IR Cam - 1.9 GHz Intel Core i7-8665U Quad-Core - 512GB SSD - 16GB - Windows 10 pro</span>
+                <span class="reporter-method-output">Product Name:- ASUS Vivo AiO V241,2 core Intel Core i3-1115G4, 23.8"(60.45cm), All-in-One Desktop (8GB/256GB SSD/Win11/Office 21/1Year McAfee Security/Wireless Keyboard & Mouse Included/White/4.8 kg),V241EAK-WA018WS</span>
+                <span class="reporter-method-output">Product Name:- Lenovo IdeaCentre 3 Desktop (12th Gen Intel Core i3/8GB/512GB SSD/DOS/Integrated Intel UHD Graphics 730/WiFi 6/Bluetooth 5.1/Cloud Grey), 90SM00AMIN</span>
+                <span class="reporter-method-output">Product Name:- Lenovo ThinkPad E14 AMD Ryzen 5 5625U 14" (35.56 cm) FHD Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/AMD Radeon Graphics/Backlit Keyboard/FPR/Black/1.59 kg), 21EBS02M00</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Surefire_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Surefire_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">Assignment.UIDataDriven.AmazonSearch</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestAmazonSearch(dell computers, 30000, 50000)</span>
+                <span class="method-start">32281 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">91303 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">105938 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TestAmazonSearch(Dell Computer, 10000, 30000)</span>
+                <span class="method-start">115718 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">156059 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

@@ -1,0 +1,226 @@
+<html>
+<head>
+<title>TestNG:  Surefire test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Surefire test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Oct 27 10:56:07 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>157 seconds (157380 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Assignment.UIDataDriven.AmazonSearch.TestAmazonSearch()'><b>TestAmazonSearch</b><br>Test class: Assignment.UIDataDriven.AmazonSearch<br>Parameters: Dell Computer, 10000, 30000<br/>
+<a href="#Output-1674938191" onClick='toggleBox("Output-1674938191", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1674938191" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1674938191">
+User is able to enter amazon in search bar<br/>
+User will print all the serach result url as follows with total count: 26<br/>
+Url:- https://www.amazon.in/<br/>
+Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031<br/>
+Url:- https://www.amazon.in/events/greatindianfestival<br/>
+Url:- https://www.amazon.in/Home-Kitchen/b?ie=UTF8&node=976442031<br/>
+Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031<br/>
+Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwj46p6fv5WCAxX8yDgGHWi8ACcQrAN6BAgHEAE<br/>
+Url:- https://www.amazon.com/<br/>
+Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor<br/>
+Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor<br/>
+Url:- https://www.amazon.jobs/<br/>
+Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon<br/>
+Url:- https://www.amazon.jobs/interviewing-at-amazon<br/>
+Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B<br/>
+Url:- https://www.amazon.jobs/en/job_categories/design<br/>
+Url:- https://aws.amazon.com/<br/>
+Url:- https://www.primevideo.com/<br/>
+Url:- https://www.aboutamazon.com/<br/>
+Url:- https://en.wikipedia.org/wiki/Amazon_(company)<br/>
+User is able to navigate to amazon.in website<br/>
+User is able to navigate ELectronics WebPage<br/>
+User is able to serach for: Dell Computer<br/>
+User is able enter filter Min value as: 10000<br/>
+User is able enter filter Max value as: 30000<br/>
+User is able apply 4 star filter<br/>
+User is able to get the all product name with total count as: 22<br/>
+Product Name:- BenQ MOBIUZ EX2710S 27"(68cm) IPS Bezel-Less HDR Gaming Monitor with Height Adjust-Full HD,99% sRGB,165Hz,1ms MPRT, AMD FreeSync Premium,Black Equalizer,treVolo Speakers,HDMI,DP(Dark Grey)<br/>
+Product Name:- (Refurbished) Lenovo Thinkcentre Desktop Mini Pc (Intel Core I5 8Th Gen | 16 Gb Ddr4 Ram| 512 Gb Ssd|Wifi|Windows 11|Ms Office) Black<br/>
+Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 16 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)<br/>
+Product Name:- (Refurbished) Dell Precision High Performance Quad-Core Desktop Computer PC (Intel Xeon E3, 8 GB RAM, 256 GB SSD, Intel HD + NVIDIA Quadro Graphics, Windows 10 Pro, MS Office)<br/>
+Product Name:- Dell S2421HNM (60.4 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 250 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free<br/>
+Product Name:- Dell S2721HNM (69 cm) FHD 1920x1080 @75Hz, Ultra Thin Bezel, Premium IPS Panel: 300 Nits & 99% sRGB, Response Time: Upto 4ms, AMD Free Sync, Blue Light Hardware Filter, Flicker Free, 5 Yr Warranty<br/>
+Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core i3 9th gen 3.1ghz, 8 GB RAM, 240gb SSD, Win 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black<br/>
+Product Name:- (Refurbished) DELL OPTIPLEX 3070 Tiny Desktop (Intel Core I3 9th gen 3.1ghz, 16 GB RAM, 480gb SSD, Windows 11 Pro, MS Office, WIFI , USB 3.0, Ethernet,VGA), Black<br/>
+Product Name:- (Refurbished) Dell Optiplex 9020 Usff (Core I5 4Th Gen/ 8 Gb Ram/ 256 Gb Ssd/ Win 10 Pro),Intel,Black<br/>
+Product Name:- (Refurbished) DELL OPTIPLEX 5050 SFF (Core i5 6th Gen/ 8GB Ram/ 256GB SSD/ Win-10 Pro)<br/>
+Product Name:- ROCCAT Sense AIMO XXL Ultra-Wide PC Gaming Mousepad, RGB Illumination, High Precision, Non Slip Back, Extended Keyboard Desktop Mouse Pad with Stitched Edges, Smooth, Black<br/>
+Product Name:- PreSonus Eris E3.5-3.5" Near Field 25 Watts RCA Auxiliary Studio Monitor Speaker (Pair) - Black<br/>
+Product Name:- (Refurbished) Dell Optiplex Desktop Computer PC (Intel Core i5 4th Gen, 8 GB RAM, 1 TB HDD, Windows 10 Pro, MS Office, Intel HD Graphics, USB, Ethernet, VGA), Black<br/>
+Product Name:- Dell Professional 24 inches, 1920 x 1080 Pixels Full HD Monitor - Wall Mountable & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life<br/>
+Product Name:- USB C Docking Station Dual Monitor for HP Dell Lenovo Thinkpad Surface, 8 in 1 Computer Multiple Monitor Hub Adapter to Dual 4K HDMI, DisplayPort, VGA, 100W PD, 3 USB 2.0 for Windows Laptops<br/>
+Product Name:- (Refurbished) DELL OPTIPLEX 3060 Tiny Desktop (Core I3 8th gen 2.5ghz, 8 GB RAM, 1 TB HDD, Win 11 (Upgraded), MS Office/ Intel HD Graphics/, USB 3.0, Ethernet,VGA), Black Windows<br/>
+Product Name:- (Refurbished) Dell Latitude E7450 5th Gen Intel Core i5 Thin & Light FHD Laptop (16 GB RAM/256 GB SSD/14" (35.6 cm) FHD/Windows 10 Pro/MS Office/WiFi/Bluetooth/Webcam/Intel Graphics)<br/>
+Product Name:- Dell 27" (68.96 cm) FHD Monitor 5 Yrs Warranty & USB Wireless Keyboard and Mouse Set- KM3322W, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life<br/>
+Product Name:- Dell 17 inch/43.2 cm, 1280 x 1024 Pixels LED Backlit Computer Monitor - HD, TN Panel with VGA, Display Ports - E1715S (Black)<br/>
+Product Name:- (Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer<br/>
+Product Name:- ASUS Vivo AiO V222, 4 core Intel Pentium Silver J5040, 21.5" (54.61cm), All-in-One Desktop (8GB/256GB SSD/Win11/1Year McAfee Security/Wired Keyboard & Mouse Included/Black/4.8 kg), V222GAK-BA034W<br/>
+Product Name:- Samsung Galaxy Tab A 10.1 Wi-Fi+4G Tablet 25.65 cm (10.1 inch), RAM 2 GB, ROM 32GB, Black<br/>
+</div>
+</td>
+<td></td>
+<td>40</td>
+<td>Assignment.UIDataDriven.AmazonSearch@1a84f40f</td></tr>
+<tr>
+<td title='Assignment.UIDataDriven.AmazonSearch.TestAmazonSearch()'><b>TestAmazonSearch</b><br>Test class: Assignment.UIDataDriven.AmazonSearch<br>Parameters: dell computers, 30000, 50000<br/>
+<a href="#Output-2111181256" onClick='toggleBox("Output-2111181256", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2111181256" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2111181256">
+User is able to enter amazon in search bar<br/>
+User will print all the serach result url as follows with total count: 36<br/>
+Url:- https://www.amazon.in/<br/>
+Url:- https://www.amazon.in/b?ie=UTF8&node=7459780031<br/>
+Url:- https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031<br/>
+Url:- https://www.amazon.in/events/greatindianfestival<br/>
+Url:- https://www.amazon.in/amazonprime<br/>
+Url:- https://www.google.com/search?q=amazon+site:amazon.in&sca_esv=577069831&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQrAN6BAgJEAE<br/>
+Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor<br/>
+Url:- https://twitter.com/amazon/status/1717224501488882121?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1717165849675538798?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716832277987217535?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1716483284723720630?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon/status/1715412562768990386?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet<br/>
+Url:- https://twitter.com/amazon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor<br/>
+Url:- https://aws.amazon.com/<br/>
+Url:- https://www.amazon.jobs/<br/>
+Url:- https://www.amazon.jobs/en/landing_pages/working-at-amazon<br/>
+Url:- https://www.amazon.jobs/interviewing-at-amazon<br/>
+Url:- https://www.amazon.jobs/en/business_categories/amazon-security?cmpid=AS_LIAS200055B<br/>
+Url:- https://www.amazon.jobs/en/job_categories/design<br/>
+Url:- https://www.primevideo.com/<br/>
+Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GiIIpQEaHQoTc3RvcnlfbGFiZWxfcGFydGlhbBIGQW1hem9uMi8KJcPhhJz744CRa_uE7dfzlJ-cYb3o1fX5-Z3ctwHf-Yap9tvF0j4QpdHRvwkYBVgB&fcs=AOyiXZL5kB3OrhFzDsvLkckMGSXjWS9Sdw&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPxAD<br/>
+Url:- https://www.hindustantimes.com/technology/amazon-great-indian-festival-sale-2023-get-up-to-89-on-best-smartwatches-101698318914948.html<br/>
+Url:- https://www.gadgets360.com/internet/features/5-air-purifiers-under-rs-10000-during-amazon-great-indian-festival-extra-happiness-days-sale-2023-4515569<br/>
+Url:- https://www.livemint.com/technology/gadgets/amazon-sale-2023-upgrading-your-smartphone-get-up-to-51-off-on-flagship-phone-11698323326891.html<br/>
+Url:- https://www.google.com/search?q=amazon&sca_esv=577069831&tbm=nws&story=GhkSF0FtYXpvbiBlYXJuaW5ncyBwcmV2aWV3MjAKJqaumuno96DzNZuEmfWdi--mkQGx58KD7snitugB5LDk9tm1-ItAEMiBn8YJGAVYAQ&fcs=AOyiXZK29zgaTRBW4v7D5zyZ8CzEeelX0A&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQjcEJegQIPBAD<br/>
+Url:- https://www.google.com/search?q=NASDAQ:AMZN&sca_esv=577069831&source=hp&ei=DUo7ZbSFD5f7seMPzv-ruA0&iflsig=AO6bgOgAAAAAZTtYHWqY3N48O_dZ3iRzGGqJfCuqPKfG&uact=5&oq=amazon&gs_lp=Egdnd3Mtd2l6IgZhbWF6b25I4AFQAFgQcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAQ&sclient=gws-wiz&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQkq0KKAB6BAg8EAY<br/>
+Url:- https://www.bloomberg.com/news/articles/2023-10-26/amazon-reports-revenue-that-tops-estimates-on-strong-web-sales<br/>
+Url:- https://www.moneycontrol.com/news/world/amazons-cloud-stabilizing-shoppers-cautious-heading-into-holiday-season-11607801.html<br/>
+Url:- https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator<br/>
+Url:- https://www.bloomberg.com/news/articles/2023-10-27/microsoft-s-cloud-recovery-is-outshining-rivals-amazon-google<br/>
+Url:- https://www.google.com/search?sca_esv=577069831&q=amazon&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwji29X3vpWCAxVHd2wGHTUjDoAQt8YBKAF6BAg-EAY<br/>
+Url:- https://www.aboutamazon.com/<br/>
+Url:- https://en.wikipedia.org/wiki/Amazon_(company)<br/>
+User is able to navigate to amazon.in website<br/>
+User is able to navigate ELectronics WebPage<br/>
+User is able to serach for: dell computers<br/>
+User is able enter filter Min value as: 30000<br/>
+User is able enter filter Max value as: 50000<br/>
+User is able apply 4 star filter<br/>
+User is able to get the all product name with total count as: 22<br/>
+Product Name:- Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD<br/>
+Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Carbon Black/1.63kg<br/>
+Product Name:- Dell All in One Inspiron 5410, Intel Core i3-1215U/8GB/256GB/23.8"/Windows 11 Home FHD AG Pro Wireless Keyboard + Mouse/3 Years Onsite Hardware Service/White/5.39Kgs<br/>
+Product Name:- Dell Inspiron 3891 Compact Desktop Computer Tower - Intel Core i3-10105, 8GB DDR4 RAM, 256GB SSD, Intel UHD Graphics 630 with Shared Graphics Memory, Windows 10 Home - Black (Latest Model)<br/>
+Product Name:- Dell Vostro 3525 Laptop, AMD Ryzen 5-5500U Processor/ 8GB/ 512GB SSD/ 15.6" (39.62cm) FHD AG 120Hz 250 nits Narrow Border Display/ Win11 + MSO'21/15 Month McAfee/Black/ 1.83kg<br/>
+Product Name:- Dell Inspiron 3525 Laptop, AMD Ryzen R3-5425U/8GB/512GB/15.6" (39.62cm) FHD, 3 Sided Narrow Border Design with 120Hz FHD Display/Windows 11 + MSO'21/McAfee 15 Months/Carbon Black/1.68kg<br/>
+Product Name:- (Refurbished) Dell Vostro 3420 Laptop,12th Gen Intel Core i3-1215U, 8GB & 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, Carbon Black (D552325WIN9BE, 1.48 KGs)<br/>
+Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer<br/>
+Product Name:- (Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer<br/>
+Product Name:- Dell (Renewed) Latitude E6440-i5-16 GB-500 GB 14-inch Laptop (4th Gen Core i5/16GB/500GB/Windows 10/Integrated Graphics), Silver<br/>
+Product Name:- Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN<br/>
+Product Name:- Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 15.6" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/1Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK00VTIN<br/>
+Product Name:- Dell Inspiron 14 5402, 14 inch FHD Non-Touch Laptop - 11th Generation Intel Core i5-1135G7, 8GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 10 Home - Platinum Silver<br/>
+Product Name:- Dell Vostro 3400 Laptop - Intel i5-1135G7, 8GB, 512GB, Windows 11+MSO'21, 14.0"/35.56Cms FHD WVA AG (D552260WIN9B, 1.59Kgs)<br/>
+Product Name:- (Refurbished) Dell Latitude Laptop 5490 Intel Core i5 7th Gen -Processor , 16 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer<br/>
+Product Name:- Dell Inspiron 3535 Laptop, AMD 7 Series Ryzen5 R5-7520U Processor/8GB/512GB/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Display/Win 11 + MSO'21/15 Month McAfee/Platinum Silver/1.63kg<br/>
+Product Name:- (Refurbished) Dell 14 (2021) Intel i3-1125G4 2 in 1 Touch Screen Laptop, 8GB RAM, 256Gb SSD, 14 inches FHD Display, Windows 10 + MSO, Backlit KB + FPR, Silver Color (Inspiron 5410, D560563WIN9S), 1.5kg<br/>
+Product Name:- Dell Inspiron 3530 13th Gen Laptop, Intel Core i3-1305U/8GB/512GB SSD/15.6" (39.62cm) FHD WVA AG 120Hz 250 nits Narrow Border/Windows 11+MSO'21/McAfee 15 Month/Platinum Silver/1.62kg<br/>
+Product Name:- (Refurbished) Dell Latitude 7400 Laptop - 14.0" FHD AG W/ IR Cam - 1.9 GHz Intel Core i7-8665U Quad-Core - 512GB SSD - 16GB - Windows 10 pro<br/>
+Product Name:- ASUS Vivo AiO V241,2 core Intel Core i3-1115G4, 23.8"(60.45cm), All-in-One Desktop (8GB/256GB SSD/Win11/Office 21/1Year McAfee Security/Wireless Keyboard & Mouse Included/White/4.8 kg),V241EAK-WA018WS<br/>
+Product Name:- Lenovo IdeaCentre 3 Desktop (12th Gen Intel Core i3/8GB/512GB SSD/DOS/Integrated Intel UHD Graphics 730/WiFi 6/Bluetooth 5.1/Cloud Grey), 90SM00AMIN<br/>
+Product Name:- Lenovo ThinkPad E14 AMD Ryzen 5 5625U 14" (35.56 cm) FHD Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/AMD Radeon Graphics/Backlit Keyboard/FPR/Black/1.59 kg), 21EBS02M00<br/>
+</div>
+</td>
+<td></td>
+<td>59</td>
+<td>Assignment.UIDataDriven.AmazonSearch@1a84f40f</td></tr>
+</table><p>
+</body>
+</html>
